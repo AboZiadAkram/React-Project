@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Noto+Serif+Vithkuqi&family=Outfit:wght@100..900&family=Playfair+Display:ital@1&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit" , sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.navbar-container{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+

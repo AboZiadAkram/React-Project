@@ -1,0 +1,30 @@
+/* Footer Modification */
+.footer-div{
+    width: 100%;
+    background-color: black;
+    min-height: 15vh;
+    margin-top: 100px;
+}
+
+/* All Rights Reserved modification */
+.rights{
+    text-align: center;
+    color: #fff;
+}
+
+/* icons in the footer are displayed with space between in the bottom */
+.footer-icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+/* All the lists are in one line */
+footer ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px 20px;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+}

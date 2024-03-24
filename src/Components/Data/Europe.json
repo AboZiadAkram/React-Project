@@ -1,0 +1,23 @@
+[
+    {
+        "countryName": "Poland",
+        "image": "https://flagsapi.com/PL/shiny/64.png",
+        "info": "Poland is a country of great natural beauty, with a wide variety of landscapes, from the Tatra Mountains in the south to the Baltic Sea in the north. It is also home to a rich cultural heritage, with a diverse population that includes Poles, Germans and Ukrainians." 
+        
+    },
+    {
+        "countryName": "Netherlands",
+        "image": "https://flagsapi.com/NL/shiny/64.png",
+        "info": "The Netherlands is a country of great natural beauty, with a wide variety of landscapes, from the flat polders in the west to the rolling hills in the east. It is also home to a rich cultural heritage, with a diverse population that includes Dutch, Frisians and Germans."
+    },
+    {
+        "countryName": "Greece",
+        "image": "https://flagsapi.com/GR/shiny/64.png",
+        "info": "Greece is a country of great natural beauty, with a wide variety of landscapes, from the mountains in the north to the islands in the south. It is also home to a rich cultural heritage, with a diverse population that includes Greeks, Turks and Albanians."
+    },
+    {
+        "countryName": "Ecuador",
+        "image": "https://flagsapi.com/EC/shiny/64.png",
+        "info": "Ecuador is a country of great natural beauty, with a wide variety of landscapes, from the Andes mountains to the Amazon rainforest. It is also home to a rich cultural heritage, with a diverse population that includes indigenous peoples, Europeans, Africans, and Asians. Ecuador is a country of great economic potential, with a large and growing economy that is one of the largest in the world. It is a country of great political importance, with a long history of democracy and a strong tradition of diplomacy. Ecuador is a country of great social diversity, with a rich cultural life that includes music, dance, literature, and art. Ecuador is a country of great natural beauty, with a wide variety of landscapes, from the Andes mountains to the Amazon rainforest. It is also home to a rich cultural heritage, with a diverse population that includes indigenous peoples, Europeans, Africans, and Asians."
+    }
+]

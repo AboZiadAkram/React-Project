@@ -1,0 +1,15 @@
+/* Modifiying the backgound of the website */
+body{
+    box-sizing: border-box;
+    background-image: url("../Images/world-map.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* The text in this background when added to another component , sets the text to the ceter of the page */
+.website-text{
+    text-align: center;
+    max-width: 800px;
+}
+

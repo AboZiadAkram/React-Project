@@ -1,0 +1,49 @@
+/* Container modification */
+.form-container{
+    width: 420px;
+    height: 300px;
+    margin: 0 auto;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+
+/* labels Modification */
+.create label{
+    text-align: left;
+    display: block;
+    text-align: center;
+}
+
+/* Input fields modification */
+.form-container input{
+    width: 400px;
+    padding: 6px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    
+}
+
+/* button modification */
+.form-button{
+    background: black;
+    color: white;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+}
+
+/* title modification */
+h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
