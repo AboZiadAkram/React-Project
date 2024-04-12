@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Noto+Serif+Vithkuqi&family=Outfit:wght@100..900&family=Playfair+Display:ital@1&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+/* Solely made to center everything inside it in the center of the HomePage */
+.home-container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 0 auto;
+}
+
+.home-text{
+    text-align: center;
+    max-width: 800px;
+    font-size: 3.5vh;
+    font-family: "Outfit" , sans-serif;
+    color: #ffff;
+}
+
+/* The flag image will be displayed in the center of its border */
+.flag{
+    text-align: center;
+}
+
+/* The flag's name modification  */
+.flag-name{
+    color: #ffff;
+    text-align: center;
+}
+
+.flag-text{
+    font-size: 2.5vh;
+    font-family: "Noto Serif Vithkuqi", sans-serif;
+    text-align: center;
+    color: #ffff;
+
+}
+
+/* The border that surrounds each flag */
+.flag-border{
+    width: 100vh;
+    height: fit-content;
+    border: 1px solid #ffff;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+
+.title{
+    font-size: 5vh;
+    text-align: center;
+    color: #ffff;
+}
+
+/* Input field modification */
+input{
+    margin-top: 20px;
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border-color: #C0C0C0;
+    position: relative;
+    position: sticky;
+    margin-bottom: 15px;
+}
+
+/* This user contains all the flags  */
+.user{
+    width: 400px;
+    height: fit-content;
+    border-color: white;
+    font-size: 0.8rem;
+}
+
+/* The credits to the owner title modification */
+.creator{
+    font-size: 2.5rem;
+    text-align: center;
+    color: #ffff;
+    margin-top: 140px;
+}
+
+/* the example flag's modification */
+.example-flag{
+    font-size: 2.5rem;
+    text-align: center;
+    color: #ffff;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}

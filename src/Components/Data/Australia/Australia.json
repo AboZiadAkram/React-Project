@@ -1,0 +1,17 @@
+[
+    {
+        "countryName" : "Australia",
+        "image" : "https://flagsapi.com/AU/shiny/64.png",
+        "info" : "Australia is a country and continent surrounded by the Indian and Pacific oceans. Its major cities – Sydney, Brisbane, Melbourne, Perth, Adelaide – are coastal. Its capital, Canberra, is inland. The country is known for its Sydney Opera House, the Great Barrier Reef, a vast interior desert wilderness called the Outback, and unique animal species like kangaroos and duck-billed platypuses."
+    },
+    {
+        "countryName" : "Cocos (Keeling) Islands",
+        "image" : "https://flagsapi.com/CC/shiny/64.png",
+        "info" : "The Territory of the Cocos (Keeling) Islands, also called Cocos Islands and Keeling Islands, is a territory of Australia, located in the Indian Ocean, southwest of Christmas Island and approximately midway between Australia and Sri Lanka."
+    },
+    {
+        "countryName" : "Christmas Island",
+        "image" : "https://flagsapi.com/CX/shiny/64.png",
+        "info" : "Christmas Island is an Australian external territory comprising the island of the same name. It is located in the Indian Ocean, around 350 kilometres south of Java and Sumatra and around 1,550 kilometres north-west of the closest point on the Australian mainland."
+    }
+]

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Noto+Serif+Vithkuqi&family=Outfit:wght@100..900&family=Playfair+Display:ital@1&display=swap');
+
+/* Modification of the container by allowing all the paragraphs displayed in the center */
+.error-container{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+/* All the texts are provided with a specific font-family */
+.error-text{
+    text-align: center;
+    max-width: 800px;
+    font-size: 5vh;
+    font-family: "Outfit" , sans-serif;
+}
+
